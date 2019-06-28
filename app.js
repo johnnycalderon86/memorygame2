@@ -1,51 +1,51 @@
 const cardsArray = [
     {
       name: 'cop',
-      img: '/img/cop.jpg',
+      img: 'img/cop.jpg',
     },
     {
       name: 'esse',
-      img: '/img/esse.jpg',
+      img: 'img/esse.jpg',
     },
     {
       name: 'firetruck',
-      img: '/img/firetruck.jpg',
+      img: 'img/firetruck.jpg',
     },
     {
       name: 'high',
-      img: '/img/high.jpg',
+      img: 'img/high.jpg',
     },
     {
       name: 'mcqueen',
-      img: '/img/mcqueen.jpg',
+      img: 'img/mcqueen.jpg',
     },
     {
       name: 'papi',
-      img: '/img/papi.jpg',
+      img: 'img/papi.jpg',
     },
     {
       name: 'purple',
-      img: '/img/purple.jpg',
+      img: 'img/purple.jpg',
     },
     {
       name: 'retard',
-      img: '/img/retard.jpg',
+      img: 'img/retard.jpg',
     },
     {
       name: 'stripweathers',
-      img: '/img/stripweathers.jpg',
+      img: 'img/stripweathers.jpg',
     },
     {
       name: 'trailertruck',
-      img: '/img/trailertruck.jpg',
+      img: 'img/trailertruck.jpg',
     },
     {
       name: 'verde',
-      img: '/img/verde.jpg',
+      img: 'img/verde.jpg',
     },
     {
       name: 'woman',
-      img: '/img/woman.jpg',
+      img: 'img/woman.jpg',
     },
   ]
 
