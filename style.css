@@ -12,7 +12,6 @@ html {
 }
 body {
   margin: 20px 0;
-  background: #6589F9;
   background-image: url()
 }
 
@@ -46,7 +45,7 @@ body {
 
 .front {
   z-index: 2;
-  background:  url('/img/carslogo.jpg') no-repeat center center / contain;
+  background:  url('img/carslogo.jpg') no-repeat center center / contain;
 }
 
 .back {
